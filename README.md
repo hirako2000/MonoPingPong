@@ -1,7 +1,7 @@
 MonoPingPong
 ============
 
-A simple Pong game coded with MonoGame.
+A simple Pong game coded with [MonoGame] (http://www.monogame.net/).
 
 - Single player only
 - Basic CPU AI
